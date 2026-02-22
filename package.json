@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/alej-developer/formulario-vehiculos#readme",
   "devDependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "sass": "^1.97.3"
   }
 }
